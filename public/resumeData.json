@@ -1,0 +1,190 @@
+{
+  "main": {
+    "name": "Joshua Charley",
+    "occupation": "Fullstack Developer | Data Analyst & Project Manager.",
+    "description": "I code, build and deploy not limited to analyze, visualize, give report on Data or starting and delivering a successful project.",
+    "image": "profilepic.jpg",
+    "bio": "Hi! I am Joshua!. I've been coding for over 5 years As a Full Stack self-taught software developer. I've worked both with startups and large corporations to help build & scale their company's challenges. Aside from a developer and staring at a computer screen all day, I'm a competitive project manager. I taught myself project management through Google's Project Manager Prefesional certificate on Coursera. Although this might feel irrelevant to you but believe me, Project management has to do with everything tied to any project, from starting a project and closing a project. It may surprise you also as I have a skill in Data analysis😊. Yes, Data analysis through IBM as a self-taught data analyst. ",
+    "contactmessage": "Get in touch let's solve a tech problem",
+    "email": "joshuacharley87@gmail.com",
+    "phone": "+23279949614",
+    "address": {
+      "street": "81a Kanaingo, Riverside",
+      "city": "Freetown",
+      "state": "Western Area Rural",
+      "zip": "01232"
+    },
+    "website": "https://joshuaportfolio.netlify.app/",
+    "resumedownload": "https://docs.google.com/uc?export=download&id=1gwu2cViHyaHPHE3LbpFAJCxt4nYfiSLq",
+    "social": [
+
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/joshua.charley.5",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joshua-charley-63b8a0145/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mitikishie/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/joshuacharley",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Limkokwing university of creative technology",
+        "degree": "Bachelor's Degree, Software engineering",
+        "graduated": "Present",
+        "description": "Maintaining First Class Honours"
+      },
+      {
+        "degree": "Google's Africa Developer Certification",
+        "graduated": "2020",
+        "description": "Google's Africa Developer Training Program  on Mobile Web Development"
+      },
+      {
+        "degree": "IBM Data Analyst Professional Certification",
+        "graduated": "2021",
+        "description": "Vast knowledge on the Introduction to Data Analytics, Excel Basics for Data Analysis, Data Visualization and Dashboards with Excel and Cognos, Python for Data Science, AI & Development, Python Project for Data Science, Databases and SQL for Data Science with Python, Data Analysis with Python, Data Visualization with Python."
+      },
+      {
+        "degree": "IBM Full-Stack Cloud Professional Certification",
+        "graduated": "2020",
+        "description": "Equip with all the key skills and technical know-how to kickstart a Full-Stack Cloud Native Application Development. Guided by experts at IBM"
+      },
+      {
+        "degree": "Google's Project Management Professional Certification",
+        "graduated": "2021",
+        "description": "Effective knowledge on the Foundations of Project Management, Project Initiation: Starting a Successful Project, Project Planning: Putting It All Together, Project Execution: Running the Project, Agile Project Management"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer, Fiveer, Upwork & Toptal",
+        "title": "Freelance Software Developer",
+        "years": "January 2016 - Present",
+        "description": "Working as a freelancer building scalable and maintainable web and mobile apps for client all over the globe."
+      },
+      {
+        "company": "Sensi Tech Hub - Freetown, Sierra Leone",
+        "title": "Software Engineer",
+        "years": "Jan 2020 - April 2020",
+        "description": "Designed, coded, tested, and deployed new UI features and system using CI/CD best practices."
+      },
+      {
+        "company": "Educaid Sierra Leone - PortLoko, Sierra Leone",
+        "title": "Lead Tech Bootcamp Instructor",
+        "years": "July 2019 - Aug 2019",
+        "description": "Responsible for tutoring and implementing Google cloud computing to NGO's personnel."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "VueJS",
+        "level": "70%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "79%"
+      },
+      {
+        "name": "React Native",
+        "level": "65%"
+      },
+      {
+        "name": "Web Development",
+        "level": "91%"
+      },
+      {
+        "name": "Mobile Development",
+        "level": "83%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "59%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "50%"
+      },
+      {
+        "name": "DevOps",
+        "level": "50%"
+      },
+      {
+        "name": "Data Analytics",
+        "level": "60%"
+      },
+      {
+        "name": "Project Management",
+        "level": "78%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix-clonehome.png",
+        "url": "https://joshuanetflix-clone.netlify.app/"
+      },
+      {
+        "title": "mePlace (Mern Stack)",
+        "category": "",
+        "image": "meplace.png",
+        "url": "meplace.herokuapp.com"
+      },
+      {
+        "title": "CovidTracker SierraLeone ( React Native)",
+        "category": "",
+        "image": "covidtracker.jpeg"
+      },
+      {
+        "title": "meplace ( React Native)",
+        "category": "",
+        "image": "meplace.jpeg"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Joshua is absolutely excellent, his depth of knowledge & his problem solving skills really meant a lot to us... I would definitely recommend",
+        "user": "Russel Sean"
+      },
+      {
+        "text": "Working with Joshua has been AWESOME, he makes coding React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Tony Ngema"
+      }
+    ]
+  }
+}
